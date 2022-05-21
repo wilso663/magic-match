@@ -1,4 +1,4 @@
-# Stephen Wilson - Pic Some
+# Stephen Wilson - Magic-Match
 
 ## Purpose
 This app is meant to be a self directed exercise in 
