@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magic-match/static/css/main.19227ea6.css",
+    "main.js": "/magic-match/static/js/main.add63295.js",
+    "index.html": "/magic-match/index.html",
+    "main.19227ea6.css.map": "/magic-match/static/css/main.19227ea6.css.map",
+    "main.add63295.js.map": "/magic-match/static/js/main.add63295.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19227ea6.css",
+    "static/js/main.add63295.js"
+  ]
+}
